@@ -12,9 +12,9 @@ echo "|______  /|____|_  /___\____|__  /\____|__  /___\____|__  /\____|__  /\___
 echo "     \/        \/            \/         \/            \/         \/         \/                 \/         \/       \/"
 
     echo -e "\033[1;32m"
-    echo "Nyari Airdrop Auto install Chromium"
+    echo "brianimaanuell"
     echo -e "\033[1;33m"
-    echo "Telegram: https://t.me/nyariairdrop"
+    echo "Telegram: https://t.me/brianimanuell"
     echo -e "\033[0m"
 }
 
@@ -215,5 +215,4 @@ echo "🧹 Sistem Docker telah dibersihkan."
 echo -e "\n🎉 **Instalasi Selesai!** 🎉"
 echo "✅ Chromium telah berhasil diinstal dan berjalan di server Anda."
 echo "🔹 Gunakan kredensial yang diberikan untuk login."
-echo "🔹 Jangan lupa bergabung ke : https://t.me/nyariairdrop"
 echo "🚀 Selamat mencoba! 🚀"
